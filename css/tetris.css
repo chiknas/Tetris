@@ -1,0 +1,23 @@
+@import url(keypadMobile.css);
+@import url(gameDesign.css);
+@import url(navigationBar.css);
+
+
+html{
+    background: linear-gradient(to bottom, #737373 0%, #ffffcc 100%);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+body {
+    /*background-image: url("background.png");*/
+
+    width:99%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    overflow: auto;
+
+}
+
+.hidden {
+    visibility: hidden;
+}
