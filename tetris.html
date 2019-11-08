@@ -9,11 +9,6 @@
     </head>
 
     <body style="text-align: center;">
-		<!--<ul>
-  			<li><a  href="home">Home</a></li>
-			<li><a href="snake">Snake</a></li>
-			<li><a class="active" href="tetris">Tetris</a></li>
-		</ul>-->
 
         <canvas id="canvas" width="350" height="525" style="border:1px solid #000000;"></canvas>
         <canvas id="nextBlock" width="175" height="175" style="border:1px solid #000000;"></canvas>
